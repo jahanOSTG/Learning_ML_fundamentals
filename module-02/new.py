@@ -1,5 +1,5 @@
 import math
-# distance_to_home=38440
+distance_to_home=38440
 # gravity=9.8
 
 # thurst_needed=math.sqrt(gravity*distance_to_home)
