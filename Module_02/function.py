@@ -1,36 +1,36 @@
-# def my_function():
-#     print("Hellow form janie")
+def my_function():
+    print("Hellow form janie")
     
-# my_function()
+my_function()
 
-# def chowdhury(first_name):
-#     print(first_name+ " Chowdhury")
+def chowdhury(first_name):
+    print(first_name+ " Chowdhury")
     
-# chowdhury("Janie")
-# chowdhury("Antor")
-# chowdhury("Habib")
+chowdhury("Janie")
+chowdhury("Antor")
+chowdhury("Habib")
 
 
-# def concat_func(fname,lname):
-#     print(fname + " "+ lname)
-    
-    
-# concat_func("Janie","Khan")
-
-
-# def concat_func(fname,lname="Khan"):
-#     print(fname + " "+ lname)
+def concat_func(fname,lname):
+    print(fname + " "+ lname)
     
     
-# concat_func("Janie")
+concat_func("Janie","Khan")
 
-# def sum(x,y):
-#     print(x+y)
-# #sum(3,5)
 
-# x=int(input("x :"))
-# y=int(input("y :"))
-# sum(x,y)
+def concat_func(fname,lname="Khan"):
+    print(fname + " "+ lname)
+    
+    
+concat_func("Janie")
+
+def sum(x,y):
+    print(x+y)
+#sum(3,5)
+
+x=int(input("x :"))
+y=int(input("y :"))
+sum(x,y)
 
 
 def fruits(fruit):
