@@ -26,7 +26,7 @@ concat_func("Janie")
 
 def sum(x,y):
     print(x+y)
-#sum(3,5)
+sum(3,5)
 
 x=int(input("x :"))
 y=int(input("y :"))
