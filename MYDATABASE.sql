@@ -1,4 +1,5 @@
 -- Drop and recreate schema
+
 DROP SCHEMA IF EXISTS janie;
 CREATE SCHEMA janie;
 USE janie;
