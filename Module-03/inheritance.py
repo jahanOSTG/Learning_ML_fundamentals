@@ -7,6 +7,7 @@
 #single inheritance
 class Father:
     def skills(self):
+        
         print("I can code in cpp")
         
 class Son(Father):
