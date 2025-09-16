@@ -1,0 +1,55 @@
+Following are some model performance information
+
+Accurate answer = 10
+
+Total question = 20
+
+True Positive = 8
+
+False Positive = 6
+
+False Negative = 4
+
+Based on the above information, find out the following result.
+
+Accuracy =
+
+Precision =
+
+Recall =
+
+F1 =0
+
+
+
+TP=8
+FP=6
+FN=4
+
+Total Sample=TP+TN+FP+FN
+20=8+TN+6+4
+20=18+TN
+TN=20-18
+TN=2
+
+Accuracy=(TP+TN)/(TP+TN+FP+FN)
+                = (2+8)/(8+2+6+4)
+                =0.5
+                =50%
+
+Precision=(TP)/(FP+TP)​
+                 =8/(6+8)
+                 =0.5714
+                 =57.143%
+
+Recall=(TP)/(FN+TP​)
+            =8/(4+8)
+            =0.6667
+            =66.667%
+
+F1 Score=(2*Precision*Recall)/(Precision+Recall)
+               =(2*0.5714*0.667)/(0.5714+0.667)
+               =0.6155
+               =61.55%
+
+	​
