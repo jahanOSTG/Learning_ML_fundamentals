@@ -1,26 +1,16 @@
 Following are some model performance information
-
 Accurate answer = 10
-
 Total question = 20
-
 True Positive = 8
-
 False Positive = 6
-
 False Negative = 4
-
 Based on the above information, find out the following result.
-
 Accuracy =
-
 Precision =
-
 Recall =
-
 F1 =0
 
-
+Answer:
 
 TP=8
 FP=6
@@ -53,3 +43,4 @@ F1 Score=(2*Precision*Recall)/(Precision+Recall)
                =61.55%
 
 	​
+
